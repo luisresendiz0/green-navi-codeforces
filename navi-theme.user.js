@@ -4,9 +4,9 @@
 // @version      0.2
 // @description  Minimal green-navi theme for Codeforces
 // @author       lresave7
-// @resource     desertCSS  https://raw.githubusercontent.com/lresave7/codeforces-navi/main/dessert.css
-// @resource     monokaiEditorTheme https://raw.githubusercontent.com/ajaxorg/ace/master/lib/ace/theme/gob.css
-// @resource     darkthemecss https://raw.githubusercontent.com/lresave7/codeforces-navi/main/green-navi.css
+// @resource     desertCSS  https://raw.githubusercontent.com/luisrdevy/green-navi-codeforces/main/dessert.css
+// @resource     monokaiEditorTheme https://raw.githubusercontent.com/luisrdevy/green-navi-codeforces/main/gob.css
+// @resource     darkthemecss https://raw.githubusercontent.com/luisrdevy/green-navi-codeforces/main/green-navi.css
 // @match        https://codeforces.com/*
 // @match        http://codeforces.com/*
 // @match        https://calendar.google.com/calendar/embed*
